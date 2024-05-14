@@ -1,0 +1,16 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "this is a practice json",
+  "main": "math.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "IbrahimAli",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "random-words": "^2.0.1"
+  }
+}
